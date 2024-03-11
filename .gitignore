@@ -1,3 +1,4 @@
 thesis.iml
 venv
 .idea
+.DS_store
