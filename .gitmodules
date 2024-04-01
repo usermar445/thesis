@@ -1,0 +1,3 @@
+[submodule "fit-a-nef"]
+	path = fit-a-nef
+	url = https://github.com/samuelepapa/fit-a-nef.git
